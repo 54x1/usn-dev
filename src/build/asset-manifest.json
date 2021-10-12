@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c31c221.chunk.css",
+    "main.js": "/static/js/main.734a98d6.chunk.js",
+    "main.js.map": "/static/js/main.734a98d6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f5cfbed7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f5cfbed7.js.map",
+    "static/js/2.36254fe4.chunk.js": "/static/js/2.36254fe4.chunk.js",
+    "static/js/2.36254fe4.chunk.js.map": "/static/js/2.36254fe4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8c31c221.chunk.css.map": "/static/css/main.8c31c221.chunk.css.map",
+    "static/js/2.36254fe4.chunk.js.LICENSE.txt": "/static/js/2.36254fe4.chunk.js.LICENSE.txt",
+    "static/media/Error.scss": "/static/media/404.c35fe10b.jpg",
+    "static/media/Login.scss": "/static/media/Login_page_image.6587c65a.jpg",
+    "static/media/Logo.c1cbd9ca.png": "/static/media/Logo.c1cbd9ca.png",
+    "static/media/Register.scss": "/static/media/Register_page_image.879affcb.jpg",
+    "static/media/USN_Logo_White.04c6e311.png": "/static/media/USN_Logo_White.04c6e311.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5cfbed7.js",
+    "static/js/2.36254fe4.chunk.js",
+    "static/css/main.8c31c221.chunk.css",
+    "static/js/main.734a98d6.chunk.js"
+  ]
+}
